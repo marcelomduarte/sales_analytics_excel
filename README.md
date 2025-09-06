@@ -17,7 +17,7 @@ people_analytics_excel/
 │
 ├── reports/                         # Relatórios
 │   ├── sales_analytics_04_v1.0.xlsx
-│   └── relatorio_vendas.pptx
+│   └── relatorio_vendas.pdf
 │
 ├── docs/                            # Documentação
 │   └── dicionario_dados.md
